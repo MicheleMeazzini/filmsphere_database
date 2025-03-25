@@ -1,3 +1,3 @@
 # filmsphere_database
 
-Information Engineering degree - Databases project
+Computer Engineering Bachelor Degree - Databases project
